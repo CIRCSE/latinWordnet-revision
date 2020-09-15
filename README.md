@@ -1,6 +1,10 @@
 # latinWordnet-revision
 Revision of Minozzi's Latin WordNet, mapped to **version 3.0** of the Princeton WordNet (as opposed to Minozzi's original mapping to version 1.6).
 
+## File structure
+
+## Revision criteria
+
 ## Credits
 
 - **Creators**: Greta Franzini, Eleonora Litta
