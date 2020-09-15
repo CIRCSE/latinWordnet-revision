@@ -22,7 +22,7 @@ Data is manually checked for correctness and completeness against the _Oxford La
 ## Credits
 
 - **Creators**: Greta Franzini, Eleonora Litta
-- **Contributors**: Paolo Ruffolo
+- **Contributors**: Paolo Ruffolo, Marco Passarotti
 
 The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
