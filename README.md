@@ -25,3 +25,6 @@ Data is manually checked for correctness and completeness against the _Oxford La
 - **Contributors**: Paolo Ruffolo
 
 The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
+
+## Citation
+[![DOI](https://zenodo.org/badge/294712194.svg)](https://zenodo.org/badge/latestdoi/294712194)
