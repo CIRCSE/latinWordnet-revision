@@ -1,5 +1,5 @@
 # latinWordnet-revision
-Ongoing revision of Minozzi's Latin WordNet, mapped to **version 3.0** of the [Princeton WordNet](https://wordnet.princeton.edu/download/current-version) (as opposed to Minozzi's original mapping to version 1.6).
+Ongoing quality revision of Minozzi's Latin WordNet, mapped to **version 3.0** of the [Princeton WordNet](https://wordnet.princeton.edu/download/current-version) (as opposed to Minozzi's original mapping to version 1.6).
 
 **NB. This repository provides <ins>manually revised</ins> lemma-synset pairs only!** 
 
