@@ -1,27 +1,26 @@
 # Latin WordNet Revision
 Ongoing quality revision of Minozzi's Latin WordNet, mapped to **version 3.0** of the [Princeton WordNet](https://wordnet.princeton.edu/download/current-version) (as opposed to Minozzi's original mapping to version 1.6).
+The latest version contains synsets for 1612 additional lemmas that were not included in the original selection performed by Minozzi.
 
-**NB. This repository provides <ins>manually revised</ins> lemma-synset pairs only!** 
+**NB. This repository provides <ins>manually revised/added</ins> lemma-synset pairs only!** 
 
 
 ## File structure
 
 - `ID`: [LiLa](https://lila-erc.eu) lemma ID
-- `label`: the lemma
-- `type` 
-- `uri`: LiLa lemma URI
-- `id_synset`
-- `gloss`
-- `status`: 
-  - `reviewed`: **ALL** senses covered by Princeton WordNet 3.0.
-  - `incomplete`: **SOME** senses covered by Princeton WordNet 3.0 only.
+- `lemma`: all written representations of a lemma
+- `type`: LEMMA/HYPOLEMMA 
+- `lila uri`: LiLa lemma URI
+- `id_synset`: Princeton 3.0 synset URI
+- `definition`
+
 
 ## Revision criteria
-Data is manually checked for correctness and completeness against the _Oxford Latin Dictionary (1968)_ and _Lewis & Short A Latin Dictionary (1879)_.
+Data is manually checked for correctness and completeness against the _Oxford Latin Dictionary (1968)_ , _Lewis & Short A Latin Dictionary (1879)_ and _Georges Dictionary_.
 
 ## Credits
 
-- **Creators**: Greta Franzini, Eleonora Litta
+- **Creators**: Eleonora Litta, Giulia Pedonese, Greta Franzini (v.1.0)
 - **Contributors**: Paolo Ruffolo, Marco Passarotti, Marinella Testori
 
 The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
