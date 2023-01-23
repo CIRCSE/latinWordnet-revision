@@ -19,14 +19,6 @@ Ongoing quality revision of Minozzi's Latin WordNet, mapped to **version 3.0** o
 ## Revision criteria
 Data is manually checked for correctness and completeness against the _Oxford Latin Dictionary (1968)_ and _Lewis & Short A Latin Dictionary (1879)_.
 
-### _Incomplete_ lemmas
-
-New senses/synsets to be created for:
-
-- lemmas with many passive senses, e.g. _fio_ "to be prepared" 
-- lemmas with very very specific historical senses, e.g. _dictator_ "A magistrate having plenary powers, appointed at Rome in times of emergency." (Oxford Latin Dictionary)
-
-
 ## Credits
 
 - **Creators**: Greta Franzini, Eleonora Litta
