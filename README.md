@@ -20,8 +20,8 @@ Data is manually checked for correctness and completeness against the _Oxford La
 
 ## Credits
 
-- **Creators**: Eleonora Litta, Giulia Pedonese, Greta Franzini (v.1.0)
-- **Contributors**: Paolo Ruffolo, Marco Passarotti, Giovanni Moretti, Marinella Testori
+- **Creators**: Eleonora Litta, Marinella Testori, Giulia Pedonese, Greta Franzini (v.1.0)
+- **Contributors**: Paolo Ruffolo, Marco Passarotti, Giovanni Moretti
 
 The _LiLa: Linking Latin_ project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme – Grant Agreement No. 769994.
 
